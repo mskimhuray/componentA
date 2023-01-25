@@ -1,1 +1,2 @@
 componentA
+edit A
